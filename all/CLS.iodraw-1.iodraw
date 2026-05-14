@@ -410,7 +410,7 @@
           <mxGeometry x="983" y="229" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vH9Qj1IImZvu8RKC1dWb-4" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=off;" vertex="1" parent="1">
-          <mxGeometry x="1056" y="167.67" width="35" height="9.33" as="geometry" />
+          <mxGeometry x="931" y="230.67" width="38.75" height="10.33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
