@@ -505,6 +505,9 @@
         <mxCell id="vH9Qj1IImZvu8RKC1dWb-37" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.capacitors.capacitor_1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="1194" y="217.5" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="vH9Qj1IImZvu8RKC1dWb-38" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="187" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
