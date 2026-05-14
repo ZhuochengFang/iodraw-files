@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="d71SsMj-yB7c3b1A7oIn">
-    <mxGraphModel dx="1523" dy="1050" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="735" dy="507" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -380,7 +380,7 @@
           <mxGeometry x="574" y="848" width="60" height="37" as="geometry" />
         </mxCell>
         <mxCell id="DNz-4crPxLB0vdcrQGx_-86" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.capacitors.capacitor_1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="522.5" y="908.5" width="62" height="33" as="geometry" />
+          <mxGeometry x="536.5" y="924" width="62" height="33" as="geometry" />
         </mxCell>
         <mxCell id="DNz-4crPxLB0vdcrQGx_-87" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.signal_ground;" vertex="1" parent="1">
           <mxGeometry x="531" y="1004" width="45" height="30" as="geometry" />
@@ -389,6 +389,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="447" y="1021" as="sourcePoint" />
             <mxPoint x="497" y="971" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DNz-4crPxLB0vdcrQGx_-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="DNz-4crPxLB0vdcrQGx_-89">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="593.9655172413793" y="941.6206896551726" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DNz-4crPxLB0vdcrQGx_-89" value="CCLS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
