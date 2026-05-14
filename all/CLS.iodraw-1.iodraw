@@ -466,6 +466,18 @@
             <mxPoint x="1144" y="327" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="vH9Qj1IImZvu8RKC1dWb-29" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=off;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="1063.25" y="130" width="38.75" height="10.33" as="geometry" />
+        </mxCell>
+        <mxCell id="vH9Qj1IImZvu8RKC1dWb-30" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.signal_ground;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="1070.25" y="86" width="19" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="vH9Qj1IImZvu8RKC1dWb-31" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.8;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vH9Qj1IImZvu8RKC1dWb-30" target="vH9Qj1IImZvu8RKC1dWb-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1141.25" y="280" as="sourcePoint" />
+            <mxPoint x="1191.25" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
