@@ -627,14 +627,14 @@
         <mxCell id="vH9Qj1IImZvu8RKC1dWb-285" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=off;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="1053.0100000000002" y="313" width="38.75" height="10.33" as="geometry" />
         </mxCell>
-        <mxCell id="vH9Qj1IImZvu8RKC1dWb-294" value="" style="group;flipV=0;flipH=1;" vertex="1" connectable="0" parent="1">
+        <mxCell id="vH9Qj1IImZvu8RKC1dWb-294" value="" style="group;flipV=0;flipH=0;direction=east;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1019.8800000000001" y="347" width="62" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vH9Qj1IImZvu8RKC1dWb-282" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.signal_ground;rotation=-180;" vertex="1" parent="vH9Qj1IImZvu8RKC1dWb-294">
-          <mxGeometry x="43.000000000000114" width="19" height="19" as="geometry" />
+          <mxGeometry x="-1.1368683772161603e-13" width="19" height="19" as="geometry" />
         </mxCell>
         <mxCell id="vH9Qj1IImZvu8RKC1dWb-286" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.signal_ground;rotation=-180;" vertex="1" parent="vH9Qj1IImZvu8RKC1dWb-294">
-          <mxGeometry y="1" width="19" height="19" as="geometry" />
+          <mxGeometry x="43" y="1" width="19" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
