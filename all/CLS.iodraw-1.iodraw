@@ -633,6 +633,18 @@
         <mxCell id="vH9Qj1IImZvu8RKC1dWb-286" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.signal_ground;rotation=-360;" vertex="1" parent="1">
           <mxGeometry x="1019.8800000000001" y="345" width="19" height="19" as="geometry" />
         </mxCell>
+        <mxCell id="vH9Qj1IImZvu8RKC1dWb-295" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.835;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vH9Qj1IImZvu8RKC1dWb-277" target="vH9Qj1IImZvu8RKC1dWb-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1113" y="359" as="sourcePoint" />
+            <mxPoint x="1163" y="309" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vH9Qj1IImZvu8RKC1dWb-296" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1113" y="359" as="sourcePoint" />
+            <mxPoint x="1163" y="309" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
