@@ -385,12 +385,6 @@
             <mxPoint x="555" y="924" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DNz-4crPxLB0vdcrQGx_-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.18;entryY=0.116;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DNz-4crPxLB0vdcrQGx_-95" target="DNz-4crPxLB0vdcrQGx_-95">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DNz-4crPxLB0vdcrQGx_-103" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="690" y="878" width="40" height="26" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
