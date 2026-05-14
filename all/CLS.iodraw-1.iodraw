@@ -403,9 +403,6 @@
         <mxCell id="DNz-4crPxLB0vdcrQGx_-110" value="Vo(CLS)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="649" y="860" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vH9Qj1IImZvu8RKC1dWb-1" value="CLS电容一开始和CL并联接入输出端，此时" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="722" y="496" width="304" height="26" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
