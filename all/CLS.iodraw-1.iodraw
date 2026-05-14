@@ -544,7 +544,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vH9Qj1IImZvu8RKC1dWb-49" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=off;" vertex="1" parent="1">
-          <mxGeometry x="1205" y="240.17" width="38.75" height="10.33" as="geometry" />
+          <mxGeometry x="1195" y="240.17" width="38.75" height="10.33" as="geometry" />
         </mxCell>
         <mxCell id="vH9Qj1IImZvu8RKC1dWb-50" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.8;entryDx=0;entryDy=0;exitX=0.815;exitY=0.292;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vH9Qj1IImZvu8RKC1dWb-2" target="vH9Qj1IImZvu8RKC1dWb-49">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
