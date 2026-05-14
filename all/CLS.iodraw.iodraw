@@ -165,7 +165,7 @@
           <mxGeometry x="427" y="507" width="98" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DNz-4crPxLB0vdcrQGx_-37" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.capacitors.capacitor_1;" vertex="1" parent="1">
-          <mxGeometry x="203" y="498" width="82" height="45" as="geometry" />
+          <mxGeometry x="198" y="498" width="82" height="45" as="geometry" />
         </mxCell>
         <mxCell id="DNz-4crPxLB0vdcrQGx_-38" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.capacitors.capacitor_1;" vertex="1" parent="1">
           <mxGeometry x="517" y="430" width="69" height="41" as="geometry" />
@@ -282,7 +282,7 @@
         <mxCell id="DNz-4crPxLB0vdcrQGx_-64" value="CCLS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="547" y="555" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DNz-4crPxLB0vdcrQGx_-65" value="" style="endArrow=none;html=1;rounded=0;entryX=0.008;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="DNz-4crPxLB0vdcrQGx_-37">
+        <mxCell id="DNz-4crPxLB0vdcrQGx_-65" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DNz-4crPxLB0vdcrQGx_-43" target="DNz-4crPxLB0vdcrQGx_-37">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="750" as="sourcePoint" />
             <mxPoint x="510" y="700" as="targetPoint" />
