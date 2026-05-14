@@ -430,8 +430,8 @@
             <mxPoint x="1037" y="314" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vH9Qj1IImZvu8RKC1dWb-21" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=off;" vertex="1" parent="1">
-          <mxGeometry x="941" y="240.67" width="38.75" height="10.33" as="geometry" />
+        <mxCell id="vH9Qj1IImZvu8RKC1dWb-21" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=off;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="956" y="182.67" width="38.75" height="10.33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
