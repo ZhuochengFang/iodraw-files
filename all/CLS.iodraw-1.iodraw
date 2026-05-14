@@ -469,9 +469,9 @@
         <mxCell id="vH9Qj1IImZvu8RKC1dWb-17" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.signal_ground;" vertex="1" parent="1">
           <mxGeometry x="1024" y="319" width="17" height="13" as="geometry" />
         </mxCell>
-        <mxCell id="vH9Qj1IImZvu8RKC1dWb-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.8;exitDx=0;exitDy=0;" edge="1" parent="1" source="vH9Qj1IImZvu8RKC1dWb-16" target="vH9Qj1IImZvu8RKC1dWb-17">
+        <mxCell id="vH9Qj1IImZvu8RKC1dWb-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="vH9Qj1IImZvu8RKC1dWb-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="997" y="374" as="sourcePoint" />
+            <mxPoint x="1033" y="296" as="sourcePoint" />
             <mxPoint x="1047" y="324" as="targetPoint" />
           </mxGeometry>
         </mxCell>
