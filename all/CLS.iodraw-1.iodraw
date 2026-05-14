@@ -743,7 +743,13 @@
           <mxGeometry x="662" y="1210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vH9Qj1IImZvu8RKC1dWb-329" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.abstract.operational_amp_2;" vertex="1" parent="1">
-          <mxGeometry x="436" y="1198" width="199" height="90" as="geometry" />
+          <mxGeometry x="436" y="1198" width="88" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vH9Qj1IImZvu8RKC1dWb-330" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="427" y="1195" as="sourcePoint" />
+            <mxPoint x="477" y="1145" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
