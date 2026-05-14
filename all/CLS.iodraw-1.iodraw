@@ -496,7 +496,7 @@
         <mxCell id="vH9Qj1IImZvu8RKC1dWb-35" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.capacitors.capacitor_1;" vertex="1" parent="1">
           <mxGeometry x="1117.5" y="173" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vH9Qj1IImZvu8RKC1dWb-36" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="vH9Qj1IImZvu8RKC1dWb-36" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.8;exitDx=0;exitDy=0;" edge="1" parent="1" source="vH9Qj1IImZvu8RKC1dWb-32" target="vH9Qj1IImZvu8RKC1dWb-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1060" y="227" as="sourcePoint" />
             <mxPoint x="1110" y="177" as="targetPoint" />
