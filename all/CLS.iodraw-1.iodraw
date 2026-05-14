@@ -609,7 +609,7 @@
         <mxCell id="vH9Qj1IImZvu8RKC1dWb-83" value="Vin+" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="889" y="214" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vH9Qj1IImZvu8RKC1dWb-292" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="vH9Qj1IImZvu8RKC1dWb-292" value="" style="group;flipH=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1001" y="364" width="129" height="94" as="geometry" />
         </mxCell>
         <mxCell id="vH9Qj1IImZvu8RKC1dWb-277" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.capacitors.capacitor_1;" vertex="1" parent="vH9Qj1IImZvu8RKC1dWb-292">
