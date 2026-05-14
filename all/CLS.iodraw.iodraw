@@ -346,9 +346,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DNz-4crPxLB0vdcrQGx_-85" value="Vo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="574" y="848" width="60" height="37" as="geometry" />
-        </mxCell>
         <mxCell id="DNz-4crPxLB0vdcrQGx_-90" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DNz-4crPxLB0vdcrQGx_-73" target="DNz-4crPxLB0vdcrQGx_-67">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="457" y="1091" as="sourcePoint" />
