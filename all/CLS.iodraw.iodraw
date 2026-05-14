@@ -353,19 +353,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DNz-4crPxLB0vdcrQGx_-92" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.capacitors.capacitor_1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="613" y="577.5" width="62" height="33" as="geometry" />
+          <mxGeometry x="680" y="908.5" width="62" height="33" as="geometry" />
         </mxCell>
         <mxCell id="DNz-4crPxLB0vdcrQGx_-93" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.signal_ground;" vertex="1" parent="1">
-          <mxGeometry x="621.5" y="673" width="45" height="30" as="geometry" />
+          <mxGeometry x="688.5" y="1004" width="45" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DNz-4crPxLB0vdcrQGx_-94" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DNz-4crPxLB0vdcrQGx_-93" target="DNz-4crPxLB0vdcrQGx_-92">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="349" y="550" as="sourcePoint" />
-            <mxPoint x="399" y="500" as="targetPoint" />
+            <mxPoint x="416" y="881" as="sourcePoint" />
+            <mxPoint x="466" y="831" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DNz-4crPxLB0vdcrQGx_-95" value="CL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="632" y="563" width="60" height="30" as="geometry" />
+          <mxGeometry x="699" y="894" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DNz-4crPxLB0vdcrQGx_-96" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.capacitors.capacitor_1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="560" y="897" width="62" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
