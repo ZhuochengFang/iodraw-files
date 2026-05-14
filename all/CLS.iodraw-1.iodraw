@@ -404,7 +404,7 @@
           <mxGeometry x="649" y="860" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vH9Qj1IImZvu8RKC1dWb-2" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.abstract.operational_amp_2;" vertex="1" parent="1">
-          <mxGeometry x="839" y="570" width="98" height="90" as="geometry" />
+          <mxGeometry x="1132" y="170" width="98" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
