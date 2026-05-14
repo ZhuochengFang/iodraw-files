@@ -370,7 +370,10 @@
         <mxCell id="DNz-4crPxLB0vdcrQGx_-96" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.capacitors.capacitor_1;rotation=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="876.5" width="62" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="DNz-4crPxLB0vdcrQGx_-97" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DNz-4crPxLB0vdcrQGx_-97" value="CCLS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="852" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DNz-4crPxLB0vdcrQGx_-98" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="960" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
