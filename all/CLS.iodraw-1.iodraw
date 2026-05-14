@@ -478,6 +478,9 @@
             <mxPoint x="1191.25" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="vH9Qj1IImZvu8RKC1dWb-32" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=off;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="1063.25" y="196.84" width="38.75" height="10.33" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
