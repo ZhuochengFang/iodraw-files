@@ -508,7 +508,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vH9Qj1IImZvu8RKC1dWb-37" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.capacitors.capacitor_1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="1214" y="188.5" width="29" height="14.5" as="geometry" />
+          <mxGeometry x="1208" y="226.75" width="29" height="14.5" as="geometry" />
         </mxCell>
         <mxCell id="vH9Qj1IImZvu8RKC1dWb-38" value="&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:&#39;Times New Roman&#39;;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;Φ1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="923" y="207.17000000000002" width="60" height="30" as="geometry" />
@@ -533,6 +533,12 @@
             <mxPoint x="1200" y="259" as="sourcePoint" />
             <mxPoint x="1195" y="248.43399999999997" as="targetPoint" />
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vH9Qj1IImZvu8RKC1dWb-56" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="vH9Qj1IImZvu8RKC1dWb-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1158" y="228" as="sourcePoint" />
+            <mxPoint x="1208" y="178" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
