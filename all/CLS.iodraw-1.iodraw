@@ -437,7 +437,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vH9Qj1IImZvu8RKC1dWb-10" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.signal_ground;" vertex="1" parent="1">
-          <mxGeometry x="1003" y="309" width="45" height="30" as="geometry" />
+          <mxGeometry x="1009" y="310" width="17" height="13" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
