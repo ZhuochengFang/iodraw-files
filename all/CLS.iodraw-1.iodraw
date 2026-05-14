@@ -407,7 +407,7 @@
           <mxGeometry x="1102" y="229" width="71" height="65" as="geometry" />
         </mxCell>
         <mxCell id="vH9Qj1IImZvu8RKC1dWb-3" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.capacitors.capacitor_1;" vertex="1" parent="1">
-          <mxGeometry x="1024" y="229" width="40" height="20" as="geometry" />
+          <mxGeometry x="983" y="229" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
