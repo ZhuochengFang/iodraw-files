@@ -34,16 +34,13 @@
             <mxPoint x="357.5" y="171.39999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DNz-4crPxLB0vdcrQGx_-7" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=off;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="291" y="221" width="75" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="DNz-4crPxLB0vdcrQGx_-8" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.signal_ground;" parent="1" vertex="1">
           <mxGeometry x="312" y="290" width="45" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DNz-4crPxLB0vdcrQGx_-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.8;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="DNz-4crPxLB0vdcrQGx_-8" target="DNz-4crPxLB0vdcrQGx_-7" edge="1">
+        <mxCell id="DNz-4crPxLB0vdcrQGx_-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.8;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="DNz-4crPxLB0vdcrQGx_-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="393" y="254" as="sourcePoint" />
-            <mxPoint x="443" y="204" as="targetPoint" />
+            <mxPoint x="334.5" y="268.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DNz-4crPxLB0vdcrQGx_-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.8;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="DNz-4crPxLB0vdcrQGx_-2" edge="1">
@@ -53,9 +50,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DNz-4crPxLB0vdcrQGx_-11" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.8;exitDx=0;exitDy=0;" parent="1" source="DNz-4crPxLB0vdcrQGx_-7" edge="1">
+        <mxCell id="DNz-4crPxLB0vdcrQGx_-11" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.8;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="393" y="254" as="sourcePoint" />
+            <mxPoint x="334.5" y="193.5" as="sourcePoint" />
             <mxPoint x="335" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -753,8 +750,8 @@
         </mxCell>
         <mxCell id="vH9Qj1IImZvu8RKC1dWb-331" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="515" y="990" as="sourcePoint" />
-            <mxPoint x="515" y="1121" as="targetPoint" />
+            <mxPoint x="537" y="1195" as="sourcePoint" />
+            <mxPoint x="537" y="1326" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
