@@ -340,7 +340,7 @@
             <mxPoint x="413" y="1132" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I69R8M4XPYCuHccvEzKa-19" value="-Vx" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="I69R8M4XPYCuHccvEzKa-19" value="-Vin" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="284" y="1142" width="60" height="28" as="geometry" />
         </mxCell>
         <mxCell id="I69R8M4XPYCuHccvEzKa-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
@@ -352,8 +352,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="I69R8M4XPYCuHccvEzKa-21" value="Vo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="614" y="1158" width="60" height="37" as="geometry" />
+        <mxCell id="I69R8M4XPYCuHccvEzKa-22" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="387" y="1204" as="sourcePoint" />
+            <mxPoint x="437" y="1154" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="437" y="1204" />
+              <mxPoint x="387" y="1154" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
