@@ -755,7 +755,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h2frcDyh5lJp4E2AZh5A-1" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.switchDisconnector;aspect=fixed;elSwitchState=on;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="302.88" y="232.88" width="56.25" height="15" as="geometry" />
+          <mxGeometry x="301" y="214" width="56.25" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
