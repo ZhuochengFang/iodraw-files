@@ -262,7 +262,7 @@
           <mxGeometry x="464" y="1158" width="98" height="90" as="geometry" />
         </mxCell>
         <mxCell id="I69R8M4XPYCuHccvEzKa-2" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.capacitors.capacitor_1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1149" width="82" height="45" as="geometry" />
+          <mxGeometry x="136" y="1149" width="82" height="45" as="geometry" />
         </mxCell>
         <mxCell id="I69R8M4XPYCuHccvEzKa-3" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.capacitors.capacitor_1;" vertex="1" parent="1">
           <mxGeometry x="554" y="1081" width="69" height="41" as="geometry" />
@@ -293,10 +293,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="I69R8M4XPYCuHccvEzKa-8" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.signal_ground;" vertex="1" parent="1">
-          <mxGeometry x="218" y="1296" width="45" height="30" as="geometry" />
+          <mxGeometry x="114" y="1296" width="45" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I69R8M4XPYCuHccvEzKa-9" value="C1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="251" y="1119" width="60" height="30" as="geometry" />
+          <mxGeometry x="147" y="1119" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I69R8M4XPYCuHccvEzKa-10" value="C2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="554" y="1051" width="60" height="30" as="geometry" />
@@ -336,8 +336,8 @@
         </mxCell>
         <mxCell id="I69R8M4XPYCuHccvEzKa-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="I69R8M4XPYCuHccvEzKa-8" target="I69R8M4XPYCuHccvEzKa-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="363" y="1182" as="sourcePoint" />
-            <mxPoint x="413" y="1132" as="targetPoint" />
+            <mxPoint x="259" y="1182" as="sourcePoint" />
+            <mxPoint x="309" y="1132" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I69R8M4XPYCuHccvEzKa-19" value="-Vin" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
