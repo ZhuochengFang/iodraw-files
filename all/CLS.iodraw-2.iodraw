@@ -635,7 +635,7 @@
           <mxGeometry x="1183" y="510" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h2frcDyh5lJp4E2AZh5A-38" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.capacitors.capacitor_1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="1400.5" y="589.5" width="62" height="33" as="geometry" />
+          <mxGeometry x="1400.5" y="587.5" width="62" height="33" as="geometry" />
         </mxCell>
         <mxCell id="h2frcDyh5lJp4E2AZh5A-39" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.signal_ground;" vertex="1" parent="1">
           <mxGeometry x="1409" y="771" width="45" height="30" as="geometry" />
@@ -665,7 +665,7 @@
           <mxGeometry x="1286" y="555" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="h2frcDyh5lJp4E2AZh5A-46" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=off;" vertex="1" parent="1">
-          <mxGeometry x="1293" y="621" width="75" height="20" as="geometry" />
+          <mxGeometry x="1286" y="617" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="h2frcDyh5lJp4E2AZh5A-47" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=off;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="1387.5" y="687" width="75" height="20" as="geometry" />
