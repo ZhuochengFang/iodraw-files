@@ -668,7 +668,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h2frcDyh5lJp4E2AZh5A-45" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=off;" vertex="1" parent="1">
-          <mxGeometry x="1132" y="575" width="75" height="20" as="geometry" />
+          <mxGeometry x="1293" y="555" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="h2frcDyh5lJp4E2AZh5A-46" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=off;" vertex="1" parent="1">
+          <mxGeometry x="1303" y="565" width="75" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
