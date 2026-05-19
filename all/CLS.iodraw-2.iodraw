@@ -638,7 +638,7 @@
           <mxGeometry x="1400.5" y="585" width="62" height="33" as="geometry" />
         </mxCell>
         <mxCell id="h2frcDyh5lJp4E2AZh5A-39" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.signal_ground;" vertex="1" parent="1">
-          <mxGeometry x="1409" y="771" width="45" height="30" as="geometry" />
+          <mxGeometry x="1409" y="769" width="45" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h2frcDyh5lJp4E2AZh5A-41" value="CCLS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1356" y="583" width="60" height="30" as="geometry" />
@@ -712,7 +712,7 @@
             <mxPoint x="1194" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h2frcDyh5lJp4E2AZh5A-57" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="h2frcDyh5lJp4E2AZh5A-57" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.8;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="h2frcDyh5lJp4E2AZh5A-39" target="h2frcDyh5lJp4E2AZh5A-47">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1144" y="610" as="sourcePoint" />
             <mxPoint x="1194" y="560" as="targetPoint" />
