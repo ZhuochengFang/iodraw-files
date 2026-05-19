@@ -722,7 +722,10 @@
           <mxGeometry x="1286" y="525" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h2frcDyh5lJp4E2AZh5A-60" value="P2a" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1296" y="535" width="60" height="30" as="geometry" />
+          <mxGeometry x="1435" y="671" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h2frcDyh5lJp4E2AZh5A-61" value="P2a" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1277" y="641" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
