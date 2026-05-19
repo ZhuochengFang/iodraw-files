@@ -665,7 +665,7 @@
           <mxGeometry x="1286" y="555" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="h2frcDyh5lJp4E2AZh5A-46" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=off;" vertex="1" parent="1">
-          <mxGeometry x="1286" y="617" width="75" height="20" as="geometry" />
+          <mxGeometry x="1262" y="618" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="h2frcDyh5lJp4E2AZh5A-47" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=off;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="1387.5" y="687" width="75" height="20" as="geometry" />
@@ -700,7 +700,7 @@
             <mxPoint x="1194" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h2frcDyh5lJp4E2AZh5A-55" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.8;entryDx=0;entryDy=0;" edge="1" parent="1" target="h2frcDyh5lJp4E2AZh5A-46">
+        <mxCell id="h2frcDyh5lJp4E2AZh5A-55" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.8;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="h2frcDyh5lJp4E2AZh5A-7" target="h2frcDyh5lJp4E2AZh5A-46">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1269" y="596" as="sourcePoint" />
             <mxPoint x="1194" y="560" as="targetPoint" />
