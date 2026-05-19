@@ -676,6 +676,12 @@
         <mxCell id="h2frcDyh5lJp4E2AZh5A-47" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=off;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="1387.5" y="687" width="75" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="h2frcDyh5lJp4E2AZh5A-49" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1144" y="610" as="sourcePoint" />
+            <mxPoint x="1194" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
