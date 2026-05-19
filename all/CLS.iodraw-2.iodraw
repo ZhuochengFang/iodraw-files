@@ -641,7 +641,7 @@
           <mxGeometry x="1409" y="771" width="45" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h2frcDyh5lJp4E2AZh5A-41" value="CCLS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="529" width="60" height="30" as="geometry" />
+          <mxGeometry x="1356" y="583" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h2frcDyh5lJp4E2AZh5A-42" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.switchDisconnector;aspect=fixed;elSwitchState=on;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="1020.75" y="594" width="56.25" height="15" as="geometry" />
@@ -694,7 +694,7 @@
             <mxPoint x="1194" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h2frcDyh5lJp4E2AZh5A-54" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.8;entryDx=0;entryDy=0;" edge="1" parent="1" target="h2frcDyh5lJp4E2AZh5A-45">
+        <mxCell id="h2frcDyh5lJp4E2AZh5A-54" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.8;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="h2frcDyh5lJp4E2AZh5A-7" target="h2frcDyh5lJp4E2AZh5A-45">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1264" y="600" as="sourcePoint" />
             <mxPoint x="1194" y="560" as="targetPoint" />
