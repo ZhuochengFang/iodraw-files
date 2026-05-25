@@ -727,6 +727,9 @@
         <mxCell id="h2frcDyh5lJp4E2AZh5A-61" value="P2b" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1277" y="641" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="h2frcDyh5lJp4E2AZh5A-62" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="427" y="962" width="237" height="142" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
