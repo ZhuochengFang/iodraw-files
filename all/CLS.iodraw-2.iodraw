@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vH9Qj1IImZvu8RKC1dWb-300" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;" parent="1" vertex="1">
-          <mxGeometry x="181" y="1150" width="237" height="142" as="geometry" />
+          <mxGeometry x="428.5" y="1405" width="237" height="142" as="geometry" />
         </mxCell>
         <mxCell id="DNz-4crPxLB0vdcrQGx_-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.abstract.operational_amp_1;" parent="1" vertex="1">
           <mxGeometry x="444" y="157" width="98" height="90" as="geometry" />
@@ -719,12 +719,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h2frcDyh5lJp4E2AZh5A-59" value="P2a" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1286" y="525" width="60" height="30" as="geometry" />
+          <mxGeometry x="1293.5" y="529" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h2frcDyh5lJp4E2AZh5A-60" value="P2a" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1435" y="671" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h2frcDyh5lJp4E2AZh5A-61" value="P2a" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="h2frcDyh5lJp4E2AZh5A-61" value="P2b" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1277" y="641" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
