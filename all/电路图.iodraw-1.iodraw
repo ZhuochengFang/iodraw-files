@@ -377,7 +377,7 @@
         <mxCell id="I69R8M4XPYCuHccvEzKa-29" value="LVFIA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="474" y="1188" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I69R8M4XPYCuHccvEzKa-30" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="I69R8M4XPYCuHccvEzKa-30" value="“虚地点”" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="794" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
