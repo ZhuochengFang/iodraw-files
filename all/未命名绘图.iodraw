@@ -399,7 +399,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fbiY43xLj9StZhnDmZyL-9" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.capacitors.capacitor_1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="1143" y="640" width="57" height="25" as="geometry" />
+          <mxGeometry x="1123" y="631" width="57" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="fbiY43xLj9StZhnDmZyL-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fbiY43xLj9StZhnDmZyL-1" target="fbiY43xLj9StZhnDmZyL-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1172" y="614" as="sourcePoint" />
+            <mxPoint x="1082" y="602" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fbiY43xLj9StZhnDmZyL-11" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.protective_earth;" vertex="1" parent="1">
+          <mxGeometry x="1139" y="688" width="25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fbiY43xLj9StZhnDmZyL-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1032" y="688" as="sourcePoint" />
+            <mxPoint x="1082" y="638" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
