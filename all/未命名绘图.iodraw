@@ -410,11 +410,14 @@
         <mxCell id="fbiY43xLj9StZhnDmZyL-11" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.protective_earth;" vertex="1" parent="1">
           <mxGeometry x="1139" y="688" width="25" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fbiY43xLj9StZhnDmZyL-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="fbiY43xLj9StZhnDmZyL-13" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fbiY43xLj9StZhnDmZyL-11" target="fbiY43xLj9StZhnDmZyL-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1032" y="688" as="sourcePoint" />
             <mxPoint x="1082" y="638" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fbiY43xLj9StZhnDmZyL-14" value="vi" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="961" y="608" width="60" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
